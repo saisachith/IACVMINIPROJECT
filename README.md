@@ -7,6 +7,7 @@ Download the zip file containing codes and images.
 
 #### Step 2
 Read any one of the images available in the folder
+
 ![image](https://user-images.githubusercontent.com/70768880/201913828-6cc23b2f-930f-4617-97d3-39865aafd8bd.png)
 
 #### Step 3
