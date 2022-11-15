@@ -25,3 +25,8 @@ Run the main function with the following parameters as the attributes.
 |	table	 | 0.002	| 1.035	| 100	| 1 |
 |	wires	 | 0.01	| 1.165	| 1	| 0.6 |
 
+![image](https://user-images.githubusercontent.com/70768880/201914340-4d251fe6-b83f-4bcf-ae43-4641a63d1a46.png)
+
+#### Results
+
+![image](https://user-images.githubusercontent.com/70768880/201914482-326687d9-fc73-468b-9c0a-9b026ade09fd.png)
